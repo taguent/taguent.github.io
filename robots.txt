@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taguent.github.io/sitemap.html.gz
+Sitemap: https://taguent.github.io/app/sitemap.html.gz
+Sitemap: https://taguent.github.io/assets/sitemap.html.gz
+Sitemap: https://taguent.github.io/css/sitemap.html.gz
+Sitemap: https://taguent.github.io/includes/sitemap.html.gz
+Sitemap: https://taguent.github.io/item/sitemap.html.gz
+Sitemap: https://taguent.github.io/src/sitemap.html.gz
